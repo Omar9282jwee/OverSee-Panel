@@ -35,9 +35,9 @@ node .
 
 ### ip-costom-Minecraft
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-scripts/refs/heads/main/install-playit.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Omar9282jwee/Fox-Scripts/refs/heads/main/install-playit.sh)
 ```
-### for again start ->
+- for again start ->
 ```
 ./playit-linux-amd64
 ```
